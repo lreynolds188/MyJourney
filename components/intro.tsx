@@ -11,10 +11,7 @@ const Intro = () => {
         <a
           href="https://nextjs.org/"
           className="underline hover:text-blue-600 duration-200 transition-colors"
-        >
-          Next.js
-        </a>{' '}
-        and {CMS_NAME}.
+        ></a>
       </h4>
     </section>
   )
