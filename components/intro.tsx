@@ -7,7 +7,7 @@ const Intro = () => {
         My Journey
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        An inspirational perspective from a single woman's experiences in a strange and ever changing world{' '}
+        An inspirational perspective from a single woman's experiences in a strange and ever changing world.{' '}
         <a
           href="https://nextjs.org/"
           className="underline hover:text-blue-600 duration-200 transition-colors"
