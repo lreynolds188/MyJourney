@@ -1,6 +1,6 @@
 ---
 title: 'The White Cliffs of Dover'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+excerpt: 'Have you seen these cliffs? Cos if you haven't i shit you not it literally changed my life. It literally feels as if I've touched god and had his babies.'
 coverImage: '/assets/blog/dover/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
