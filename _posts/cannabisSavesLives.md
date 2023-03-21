@@ -1,5 +1,5 @@
 ---
-title: 'The Breeze of Bristol'
+title: 'My Journey To Middle Earth: The J.R.R. Tolkein Museum'
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis fermentum metus vitae velit elementum lacinia."
 coverImage: '/assets/blog/covers/cannabisSavesLives.jpg'
 date: '2020-03-16T05:35:07.322Z'
