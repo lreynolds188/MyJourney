@@ -1,5 +1,5 @@
 ---
-title: "My Journey To Middle Earth: The J.R.R. Tolkein Museum"
+title: "The Breeze Of Bristol"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis turpis id nulla aliquam vulputate ac et nisl. Etiam porttitor malesuada ligula at posuere. Cras euismod semper libero id eleifend."
 coverImage: '/assets/blog/covers/sayNo.jpg'
 date: '2020-03-16T05:35:07.322Z'
